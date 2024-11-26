@@ -1,4 +1,5 @@
-Notes API
+**Notes API**
+
 This project is a simple REST API for managing personal notes. The API allows users to create, read, update, and delete notes. Each note includes a title, author, date/time, body, and classification (e.g., personal, work, school).
 
 Features
